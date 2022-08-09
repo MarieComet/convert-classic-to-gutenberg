@@ -1,0 +1,49 @@
+#classic-to-gutenberg .components-search-control__input {
+    background-color: #fff !important;
+    border: 1px solid #c3c4c7 !important;
+}
+#classic-to-gutenberg button .dashicon {
+    pointer-events: none;
+}
+#classic-to-gutenberg .components-base-control__field {
+    margin-bottom: 0;
+}
+.cctg-pagination {
+    margin-left: auto;
+    display: flex;
+    gap: 5px;
+    align-items: flex-end;
+}
+.cctg-pagination input {
+    max-width: 60px;
+}
+.cctg-header {
+    display: flex;
+    gap: 5px;
+    margin: 10px 0;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.cctg-footer {
+    display: flex;
+    gap: 5px;
+    margin: 10px 0;
+}
+.components-base-control-wrapper label {
+    display: block;
+    margin-bottom: 5px;
+}
+.cctg-header input, .cctg-header select, .cctg-header button {
+    height: 40px !important;
+    border: 1px solid #c3c4c7 !important;
+}
+
+#classic-to-gutenberg tr {
+    transition: background-color .25s ease;
+}
+[data-converting="true"] {
+    background-color: #e4ffd1 !important;
+}
+[data-converting="true"] .cctg-editor {
+    font-weight: bold;
+}
