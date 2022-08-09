@@ -448,10 +448,7 @@ function ConvertToClassic() {
   }, (0,_wordpress_element__WEBPACK_IMPORTED_MODULE_0__.createElement)(_wordpress_components__WEBPACK_IMPORTED_MODULE_2__.Button, {
     variant: "primary",
     onClick: () => convertPages(true)
-  }, (0,_wordpress_i18n__WEBPACK_IMPORTED_MODULE_1__.__)('Convert selected pages to Gutenberg', 'classic-to-gutenberg')), (0,_wordpress_element__WEBPACK_IMPORTED_MODULE_0__.createElement)(_wordpress_components__WEBPACK_IMPORTED_MODULE_2__.Button, {
-    variant: "secondary",
-    onClick: () => convertPages(false)
-  }, (0,_wordpress_i18n__WEBPACK_IMPORTED_MODULE_1__.__)('Revert selected pages to Classic', 'classic-to-gutenberg'))));
+  }, (0,_wordpress_i18n__WEBPACK_IMPORTED_MODULE_1__.__)('Convert selected posts to Gutenberg', 'classic-to-gutenberg'))));
 }
 
 function TypesList(_ref2) {

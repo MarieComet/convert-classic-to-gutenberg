@@ -177,10 +177,7 @@ function ConvertToClassic() {
             <PagesList { ... { editor, hasResolved, pages, pagesToConvert, setPageToConvert, pagesConverting, allChecked, setAllChecked } } />
             <div className="cctg-footer">
                 <Button variant="primary" onClick={ () => convertPages( true ) }>
-                    { __( 'Convert selected pages to Gutenberg', 'classic-to-gutenberg' ) }
-                </Button>
-                <Button variant="secondary" onClick={ () => convertPages( false ) }>
-                    { __( 'Revert selected pages to Classic', 'classic-to-gutenberg' ) }
+                    { __( 'Convert selected posts to Gutenberg', 'classic-to-gutenberg' ) }
                 </Button>
             </div>
         </div>

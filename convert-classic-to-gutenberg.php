@@ -5,7 +5,7 @@ Plugin URI:
 Description: Convert Classic Posts to Gutenberg
 Author: Marie Comet
 Version: 1.0.0
-Author URI:
+Author URI: https://github.com/MarieComet
 Text Domain: classic-to-gutenberg
 */
 
