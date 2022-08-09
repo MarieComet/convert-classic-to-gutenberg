@@ -6,4 +6,6 @@ This WordPress plugin provides an interface to convert posts built with the Clas
 
 Classic content is parsed and converted to blocks.
 
+⚠️ This plugin is brand new : Please backup your database before running the converter ! ⚠️
+
 ![image](https://user-images.githubusercontent.com/7976501/183752895-a851ad29-f273-41ab-8f70-d6fcaa053d16.png)
